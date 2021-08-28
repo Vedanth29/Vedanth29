@@ -21,8 +21,8 @@
 
 - 📄 Know about my experiences [https://user-images.githubusercontent.com/65438508/131209925-516a66b0-e216-4daf-9258-4f2b798a0ad6.png](https://user-images.githubusercontent.com/65438508/131209925-516a66b0-e216-4daf-9258-4f2b798a0ad6.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/vedanthm29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vedanthm29" height="30" width="40" /></a>
 <a href="https://twitter.com/vedanthm29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedanthm29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vedanth-m-7345151a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedanth-m-7345151a0" height="30" width="40" /></a>
