@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Development, Cloud Computing, Java**
 
-- 👨‍💻 All of my projects are available at [https://vedanth29.github.io/website/](https://vedanth29.github.io/website/)
+- 👨‍💻 All of my projects are available at [https://vedanth29.github.io/website/](https://vedanth29.github.io/)
 
 - 📝 I regularly write articles on [https://dlitheinternvedanth.blogspot.com/](https://dlitheinternvedanth.blogspot.com/)
 
