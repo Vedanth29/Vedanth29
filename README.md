@@ -7,19 +7,19 @@
 
 <p align="center"> <a href="https://twitter.com/vedanthm29" target="blank"><img src="https://img.shields.io/twitter/follow/vedanthm29?logo=twitter&style=for-the-badge" alt="vedanthm29" /></a> </p>
 
-- 🔭 I’m currently working on [Web Development bootcamp](https://github.com/Vedanth29/WebDevelopment_bootcamp)
+- 🔭 I’m currently working on [Web Development Bootcamp](https://github.com/Vedanth29/WebDevelopment_bootcamp)
 
 - 🌱 I’m currently learning **Web Development, Cloud Computing, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vedanth29?tab=repositories](https://github.com/Vedanth29?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github repositories](https://github.com/Vedanth29?tab=repositories)
 
-- 📝 I regularly write articles on [https://dlitheinternvedanth.blogspot.com/](https://dlitheinternvedanth.blogspot.com/)
+- 📝 My Blog article on [internvedanth.blogspot.com/](https://dlitheinternvedanth.blogspot.com/)
 
 - 💬 Ask me about **Front-end web development**
 
 - 📫 How to reach me **mvedanth28@gmail.com**
 
-- 📄 Know about my experiences [https://user-images.githubusercontent.com/65438508/131209925-516a66b0-e216-4daf-9258-4f2b798a0ad6.png](https://user-images.githubusercontent.com/65438508/131209925-516a66b0-e216-4daf-9258-4f2b798a0ad6.png)
+- 📄 Know about my experiences [My Resume](https://user-images.githubusercontent.com/65438508/131209925-516a66b0-e216-4daf-9258-4f2b798a0ad6.png)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
